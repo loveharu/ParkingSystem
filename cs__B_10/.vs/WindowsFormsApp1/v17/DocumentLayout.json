@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uinfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:uinfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rcalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rcalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\price.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:price.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\price.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:price.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rcalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rcalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\upark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:upark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\uinfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:uinfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uparkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:uparkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\uparkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:uparkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\ulogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:ulogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\ulogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:ulogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|c:\\users\\tj-bu-702-06\\desktop\\c#\\cs__b_10\\rlookup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E0F36-E83B-45B2-B95A-232895769137}|WindowsFormsApp1.csproj|solutionrelative:rlookup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Price.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.Designer.cs",
+              "RelativeDocumentMoniker": "Price.Designer.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.Designer.cs",
+              "RelativeToolTip": "Price.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:58:37.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rCheckList.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCheckList.cs",
+              "RelativeDocumentMoniker": "rCheckList.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCheckList.cs",
+              "RelativeToolTip": "rCheckList.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvz4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "rLookUp.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rLookUp.cs",
+              "RelativeDocumentMoniker": "rLookUp.cs",
+              "ToolTip": "D:\\imform\\WindowsFormsApp1 (11-28)\\rLookUp.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T02:57:36.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "uPark.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uPark.cs",
+              "RelativeDocumentMoniker": "uPark.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uPark.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "uPark.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.984Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rCheckList.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCheckList.cs",
+              "RelativeDocumentMoniker": "rCheckList.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCheckList.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "rCheckList.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.008Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rCalculate.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCalculate.cs",
+              "RelativeDocumentMoniker": "rCalculate.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCalculate.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "rCalculate.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.001Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rPark.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rPark.cs",
+              "RelativeDocumentMoniker": "rPark.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rPark.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "rPark.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.014Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uInfrom.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uInfrom.cs",
+              "RelativeDocumentMoniker": "uInfrom.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uInfrom.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "uInfrom.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.873Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rInform.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rInform.cs",
+              "RelativeDocumentMoniker": "rInform.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rInform.cs",
+              "RelativeToolTip": "rInform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Price.resx",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.resx",
+              "RelativeDocumentMoniker": "Price.resx",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.resx",
+              "RelativeToolTip": "Price.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-27T02:58:43.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "rCalculate.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCalculate.cs",
+              "RelativeDocumentMoniker": "rCalculate.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rCalculate.cs",
+              "RelativeToolTip": "rCalculate.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAA9wBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Price.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.cs",
+              "RelativeDocumentMoniker": "Price.cs",
+              "ToolTip": "D:\\imform\\WindowsFormsApp1 (11-28)\\Price.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T02:57:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.cs",
+              "RelativeDocumentMoniker": "Price.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\Price.cs",
+              "RelativeToolTip": "Price.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAA+wHMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rInform.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rInform.cs",
+              "RelativeDocumentMoniker": "rInform.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rInform.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "rInform.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.838Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "rLookUp.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rLookUp.cs",
+              "RelativeDocumentMoniker": "rLookUp.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rLookUp.cs",
+              "RelativeToolTip": "rLookUp.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAACMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "uInfrom.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uInfrom.cs",
+              "RelativeDocumentMoniker": "uInfrom.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uInfrom.cs",
+              "RelativeToolTip": "uInfrom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "uParkButton.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uParkButton.cs",
+              "RelativeDocumentMoniker": "uParkButton.cs",
+              "ToolTip": "D:\\imform\\WindowsFormsApp1 (11-28)\\uParkButton.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T02:57:37.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "uParkButton.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uParkButton.cs",
+              "RelativeDocumentMoniker": "uParkButton.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uParkButton.cs",
+              "RelativeToolTip": "uParkButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "uLogin.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uLogin.cs",
+              "RelativeDocumentMoniker": "uLogin.cs",
+              "ToolTip": "D:\\imform\\WindowsFormsApp1 (11-28)\\uLogin.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T02:57:37.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "rPark.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rPark.cs",
+              "RelativeDocumentMoniker": "rPark.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rPark.cs",
+              "RelativeToolTip": "rPark.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB4BAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "uLogin.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uLogin.cs",
+              "RelativeDocumentMoniker": "uLogin.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\uLogin.cs",
+              "RelativeToolTip": "uLogin.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwE8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DBClass.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\DBClass.cs",
+              "RelativeDocumentMoniker": "DBClass.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\DBClass.cs",
+              "RelativeToolTip": "DBClass.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "rLookUp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rLookUp.Designer.cs",
+              "RelativeDocumentMoniker": "rLookUp.Designer.cs",
+              "ToolTip": "C:\\Users\\tj-bu-702-06\\Desktop\\c#\\cs__B_10\\rLookUp.Designer.cs",
+              "RelativeToolTip": "rLookUp.Designer.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwIcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:57:37.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
